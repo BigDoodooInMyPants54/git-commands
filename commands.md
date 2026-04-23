@@ -22,7 +22,7 @@ __strong__
 - clone clones a repository into a new directory
 
 - checkout switches branches or restore working tree files
--+ -b creates a new branch
++ - -b creates a new branch
 
 - status shows the working tree status
 
@@ -34,11 +34,11 @@ or pushed
 - add adds file contents to the index
 
 - commit records changes to the repository
--+ -a stages files that have been modified or deleted
--+ -am overrides am.threeWay variable
++ - -a stages files that have been modified or deleted
++ - -am overrides am.threeWay variable
 
 - branch lists, creates, and deletes branches
--+ -a lists remote tracking and local branches
--+ -d deletes a branch
++ - -a lists remote tracking and local branches
++ - -d deletes a branch
 
 - merge joins developmeent histories together
